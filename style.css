@@ -2,7 +2,7 @@
 
 }
 body{
-
+font
 }.homeL {
 float:left;
 }.comL {
@@ -12,4 +12,6 @@ float: right;
 }nav {
   text-align: center;
   font-size: 50px;
+}.crib {
+  
 }
