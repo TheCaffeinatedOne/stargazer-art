@@ -4,11 +4,11 @@
 body{
 
 }.homeL {
-
+float:left;
 }.comL {
-
+text-align:center;
 }.conL {
-
+float: right;
 }nav {
   text-align: center;
   font-size: 50px;
