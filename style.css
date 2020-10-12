@@ -1,3 +1,6 @@
+@font-face {
+
+}
 body{
 
 }.homeL {
@@ -6,4 +9,7 @@ body{
 
 }.conL {
 
+}nav {
+  text-align: center;
+  font-size: 50px;
 }
