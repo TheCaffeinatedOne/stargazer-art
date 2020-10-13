@@ -5,6 +5,7 @@
 body{
 font-family: luna;
 background: url("background.jpeg")
+background-height: 100%;
 }.homeL {
 float:left;
 }.comL {
