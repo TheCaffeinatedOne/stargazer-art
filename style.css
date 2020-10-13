@@ -29,5 +29,5 @@ float: right;
 } html {
 background: url("background.jpeg");
 background-repeat: no-repeat;
-background-size: auto; 
+background-size: 200% 200%; 
 }
