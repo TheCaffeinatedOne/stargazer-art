@@ -2,7 +2,8 @@
 
 }
 body{
-font
+font: ;
+background: url("background.jpeg")
 }.homeL {
 float:left;
 }.comL {
