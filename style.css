@@ -17,6 +17,7 @@ float: right;
 }.HomeSec {
   margin-left: 21%;
   margin-right: 21%;
+  color:
 }a {
   text-decoration: none;
 }.emblem {
@@ -28,5 +29,5 @@ float: right;
 } html {
 background: url("background.jpeg");
 background-repeat: no-repeat;
-background-size: cover;
+background-size: contain; 
 }
