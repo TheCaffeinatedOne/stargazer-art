@@ -4,8 +4,7 @@
 }
 body{
 font-family: luna;
-background: url("background.jpeg");
-background-size: 100% 100%;
+
 }.homeL {
 float:left;
 }.comL {
@@ -26,4 +25,8 @@ float: right;
   margin-bottom: 64px;
 } h2 {
   font-size: 40px;
+} html {
+background: url("background.jpeg");
+background-size: 100% 100%;
+background-repeat: no-repeat;
 }
