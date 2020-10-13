@@ -12,13 +12,15 @@ float: right;
 }nav {
   text-align: center;
   font-size: 50px;
-}.crib {
-  margin-left: 20%;
-  margin-right: 20%;
+}.HomeSec {
+  margin-left: 21%;
+  margin-right: 21%;
 }a {
   text-decoration: none;
 }.emblem {
   text-align: center;
 }p {
   margin-bottom: 64px;
+} h2 {
+  font-size: 40px;
 }
