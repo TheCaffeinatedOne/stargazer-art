@@ -1,8 +1,9 @@
 @font-face {
-
+  font-family: luna;
+  src: url(Luna.ttf);
 }
 body{
-font: ;
+font-family: luna;
 background: url("background.jpeg")
 }.homeL {
 float:left;
