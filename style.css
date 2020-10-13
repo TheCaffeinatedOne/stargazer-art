@@ -27,6 +27,6 @@ float: right;
   font-size: 40px;
 } html {
 background: url("background.jpeg");
-background-size: 100% 100%;
 background-repeat: no-repeat;
+background-size: cover;
 }
