@@ -6,13 +6,13 @@ body{
 font-family: luna;
 padding: 0;
 margin: 0;
-}.homeL {
+}.homeL {/* home link*/
 float: left;
 margin-left: 7.5%;
-}.comL {
+}.comL {/* gallery link but im too lazy to change it from the original link task*/
 text-align: center;
 margin-left: 9%;
-}.conL {
+}.conL {/* commisions page link*/
 float: right;
 margin-right: 5%;
 }nav {
@@ -23,7 +23,7 @@ margin-right: 5%;
   background-size: 100% 100%;
   margin: 0;
   padding-top: 1%;
-}.HomeSec {
+}.HomeSec {/* class used to create a section on the homepage*/
   margin-left: 21%;
   margin-right: 21%;
   color:
@@ -41,10 +41,7 @@ background: url("background.jpeg");
   width: 100%;
   padding: 0;
   margin: 0;
-}header{
-  padding: 0;
-  margin: 0;
-}.neonightdude{
+}.neonightdude{/* for night and dragon in the corner*/
   float: right;
   width: 21%;
 }
