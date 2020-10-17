@@ -4,16 +4,25 @@
 }
 body{
 font-family: luna;
-
+padding: 0;
+margin: 0;
 }.homeL {
-float:left;
+float: left;
+margin-left: 7.5%;
 }.comL {
-text-align:center;
+text-align: center;
+margin-left: 9%;
 }.conL {
 float: right;
+margin-right: 5%;
 }nav {
   text-align: center;
-  font-size: 50px;
+  font-size: 35px;
+  background-image: url(nav.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0;
+  padding-top: 1%;
 }.HomeSec {
   margin-left: 21%;
   margin-right: 21%;
@@ -28,6 +37,11 @@ float: right;
   font-size: 40px;
 } html {
 background: url("background.jpeg");
-background-repeat: no-repeat;
-background-size: 200% 200%; 
+}.banner {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}header{
+  padding: 0;
+  margin: 0;
 }
