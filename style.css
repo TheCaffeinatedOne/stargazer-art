@@ -44,4 +44,7 @@ background: url("background.jpeg");
 }header{
   padding: 0;
   margin: 0;
+}.neonightdude{
+  float: right;
+  width: 21%;
 }
